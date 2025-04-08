@@ -1,6 +1,6 @@
 
 # Project Title
-
+Bus Reservation System
 GetBus - Book Bus Travels, AC Bus & Bus Hire
 
 An online bus ticket booking system with a login system, validated 
@@ -24,9 +24,5 @@ The whole backend is coded in core PHP and MySql.
 * Upload online_bus to the directory of your choice.
 * Import MySql Db file to your database software (E.g : PhpMyAdmin -> Create DB -> Import the database )
 * Configure connection between your database and server.
-* Navigate to the installation in your browser ( E.g : http://localhost/online_bus )
-* Done :)
-## Authors
 
-https://github.com/Amarjit-Khan
 
